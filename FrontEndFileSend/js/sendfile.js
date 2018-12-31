@@ -1,0 +1,3 @@
+$("#sendFile").click(()=>{
+    alert("Funcionou")
+})
